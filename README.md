@@ -4,8 +4,8 @@ Check if given Integer is palindrome or not
 ## To Run
 1. Instantiate IntegerPalindromeChecker
 2. Invoke IntegerPalindromeChecker.checkForPalindrome(Integer input)
-  * Provide Integer input to method
-  * .checkForPalindrome() returns true if the input was a palindrome, else it returns false
+  - Provide Integer input to method
+  - .checkForPalindrome() returns true if the input was a palindrome, else it returns false
 
 ## Highlights
 1. Works for odd and even length numbers (if under 10 digits long)
