@@ -2,10 +2,7 @@
 Check if given Integer is palindrome or not
 
 ## To Run
-1. Instantiate IntegerPalindromeChecker
-2. Invoke IntegerPalindromeChecker.checkForPalindrome(Integer input)
-   * Provide Integer input to method
-   * .checkForPalindrome() returns true if the input was a palindrome, else it returns false
+1. Run Main.main()
 
 ## Highlights
 1. Works for odd and even length numbers (if under 10 digits long)
@@ -20,3 +17,6 @@ Check if given Integer is palindrome or not
 2. Inputs cannot be longer than 10 digits due to limitations of Integer class
    * Could use Long input type to allow for longer inputs
 3. Could allow negatie numbers to return true if absolutue value of input is a palindrome
+
+## Assumptions
+1. null is a palindrome
