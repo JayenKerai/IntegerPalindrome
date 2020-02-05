@@ -6,7 +6,7 @@ Check if given Integer is palindrome or not. An integer is called palindrome if 
 Please write the unit tests for your solution using any of the unit testing framework.
 
 ## Dependencies used
-* JUnit 5.6.0 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
+* JUnit 5.5.2 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
 
 ## Assumptions
 1. null is a palindrome
