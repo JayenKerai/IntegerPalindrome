@@ -1,5 +1,15 @@
 # IntegerPalindrome
-Check if given Integer is palindrome or not
+
+Problem 6: Integer Palindrome
+
+Check if given Integer is palindrome or not. An integer is called palindrome if it's equal to its reverse, e.g. 1001 is a palindrome, but 1234 is not because the reverse of 1234 is 4321 which is not equal to 1234.
+Please write the unit tests for your solution using any of the unit testing framework.
+
+## Dependencies used
+* JUnit 5.6.0 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
+
+## Assumptions
+1. null is a palindrome
 
 ## To Run
 1. Run Main.main()
@@ -17,6 +27,3 @@ Check if given Integer is palindrome or not
 2. Inputs cannot be longer than 10 digits due to limitations of Integer class
    * Could use Long input type to allow for longer inputs
 3. Could allow negatie numbers to return true if absolutue value of input is a palindrome
-
-## Assumptions
-1. null is a palindrome
